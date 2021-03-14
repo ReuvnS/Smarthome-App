@@ -1,2 +1,2 @@
 # Smarthome-App
-React project
+Smart home app with React Hooks you can  add a rooms with type and color,and add products to the room with turn on andd off
